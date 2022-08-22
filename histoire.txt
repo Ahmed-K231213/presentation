@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 				LA PLANETE DES SINGES
 
 
@@ -6,3 +7,12 @@ En 2020, l'humanité s'est réveillée au milieu du néant, plus de pays , plus 
 Jusqu'au jour où un mytérieux engin s'écrasa..
 
 To be continue..
+=======
+Le Petit Chaperon rouge a ete mangé par un loup
+
+la fin
+
+
+
+-----------------------------
+>>>>>>> 0dc009b33725aa2e9a7b918db0d4ce62718a656d
